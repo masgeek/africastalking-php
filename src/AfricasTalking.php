@@ -15,7 +15,7 @@ class AfricasTalking
     protected $client;
     protected $contentClient;
     protected $voiceClient;
-    protected $paymentClient;
+    protected $paymentsClient;
     protected $tokenClient;
 
     public $baseUrl;
@@ -26,7 +26,6 @@ class AfricasTalking
     protected $paymentsUrl;
     protected $checkoutTokenUrl;
 
-    protected $paymentsClient;
 
     public function __construct($username, $apiKey)
     {
