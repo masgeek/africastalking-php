@@ -1,5 +1,5 @@
 {
-    "name": "africastalking/africastalking",
+    "name": "masgeek/africastalking",
     "description": "Official Africa's Talking PHP SDK",
     "keywords": ["sms", "voice", "ussd", "text message", "airtime", "api", "africastalking"],
     "homepage": "http://github.com/AfricasTalkingLtd/africastalking-php",
