@@ -1,8 +1,8 @@
 {
-    "name": "masgeek/africastalking",
+    "name": "africastalking/africastalking",
     "description": "Official Africa's Talking PHP SDK",
     "keywords": ["sms", "voice", "ussd", "text message", "airtime", "api", "africastalking"],
-    "homepage": "http://github.com/masgeek/africastalking-php",
+    "homepage": "http://github.com/AfricasTalkingLtd/africastalking-php",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.2",
         "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
