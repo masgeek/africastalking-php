@@ -20,10 +20,13 @@ class AfricasTalking
 
     public $baseUrl;
 
-    public $baseDomain;
+    protected $baseDomain;
     protected $contentUrl;
     protected $voiceUrl;
-    protected $paymentUrl;
+    protected $paymentsUrl;
+    protected $checkoutTokenUrl;
+
+    protected $paymentsClient;
 
     public function __construct($username, $apiKey)
     {
