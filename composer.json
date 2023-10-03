@@ -2,7 +2,7 @@
     "name": "africastalking/africastalking",
     "description": "Official Africa's Talking PHP SDK",
     "keywords": ["sms", "voice", "ussd", "text message", "airtime", "api", "africastalking"],
-    "homepage": "http://github.com/AfricasTalkingLtd/africastalking-php",
+    "homepage": "http://github.com/masgeek/africastalking-php",
     "type": "library",
     "license": "MIT",
     "authors": [
